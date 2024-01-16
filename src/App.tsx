@@ -1,8 +1,12 @@
-import Message from "./Message";
+import Register from "./Components/Register";
+import Login from "./Components/Login";
 
-function App()
-{
-  return <div> <Message/> </div>
+function App() {
+  return (
+    <div>
+      <Login />
+    </div>
+  );
 }
 
 export default App;
