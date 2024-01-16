@@ -1,12 +1,14 @@
-body{
+body
+{
     margin:0;
     font-family: -apple-system, BlinkMacSystemFont, 'segment', 'ubuntu', 'Cantarell', 'Fira Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     -mox-font-smoothing:grayscale;
     height: 100vh;
-    background:linear-gradient(#2A00B7,#42006c);
+    background:linear-gradient(#42006c,darkblue);
 
 }
-code {
+code 
+{
     font-family: 'Source Code Pro', Menlo, Monaco, Consolas, monospace;
 }
