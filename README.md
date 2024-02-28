@@ -14,6 +14,9 @@ Transaction History: Log all inventory transactions, including additions, remova
 Search and Filter: Easily search and filter through the inventory and transaction history to quickly find your needed information.
 
 ## Technologies Used
+
 Frontend: React.js
+
 Backend: Python
+
 Database: SQL Server 2016
