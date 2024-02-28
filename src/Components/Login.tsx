@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet-async";
 import UserLoginIcon from "../assets/UserLoginIcon.png";
 import EmailIcon from "../assets/EmailIcon.png";
 import PasswordIcon from "../assets/PasswordIcon.png";
-import "../Components/Login.css";
+import "../components/Login.css";
 import "../index.css";
 
 const Login: React.FC = () => {
