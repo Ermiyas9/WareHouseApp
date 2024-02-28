@@ -1,5 +1,5 @@
 # Warehouse Inventory App (Work in Progress)
-Current Sprint Board: (https://trello.com/b/Oi8qD2dw/warehouse-inventory-app)
+Current Sprint Board: https://trello.com/b/Oi8qD2dw/warehouse-inventory-app
 
 ## Overview
 Welcome to the Warehouse Inventory App! This application is currently a work in progress and is being developed using React for the front end and Python for the back end. This app was used to learn new tech stacks like Python and React to create a working application.
